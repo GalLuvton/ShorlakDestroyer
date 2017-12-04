@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShorlakDestroyer.Plugins", "ShorlakDestroyer.Plugins.csproj", "{B6C471B0-2291-9C8E-2303-2283EA54C001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShorlakDestroyer", "ShorlakDestroyer.csproj", "{6F92C0DE-C3EC-A198-D9C1-8A15B45A5116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShorlakDestroyer.Editor.Plugins", "ShorlakDestroyer.Editor.Plugins.csproj", "{6DE0DE40-C644-089A-D9B2-B2241C410F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C471B0-2291-9C8E-2303-2283EA54C001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C471B0-2291-9C8E-2303-2283EA54C001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C471B0-2291-9C8E-2303-2283EA54C001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C471B0-2291-9C8E-2303-2283EA54C001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F92C0DE-C3EC-A198-D9C1-8A15B45A5116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F92C0DE-C3EC-A198-D9C1-8A15B45A5116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F92C0DE-C3EC-A198-D9C1-8A15B45A5116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F92C0DE-C3EC-A198-D9C1-8A15B45A5116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE0DE40-C644-089A-D9B2-B2241C410F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE0DE40-C644-089A-D9B2-B2241C410F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE0DE40-C644-089A-D9B2-B2241C410F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE0DE40-C644-089A-D9B2-B2241C410F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
